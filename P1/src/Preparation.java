@@ -10,5 +10,13 @@ public class Preparation {
 	}
 	
 	
-
+            public void Cuire()
+            {
+            	
+            }
+            
+            public preparer_legumes()
+            {
+            	
+            }
 }
