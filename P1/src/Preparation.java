@@ -15,7 +15,7 @@ public class Preparation {
             	
             }
             
-            public preparer_legumes()
+            public void preparer_legumes()
             {
             	
             }
